@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather Application</string>
+    <string name="home_error_try_again">Try Again</string>
+    <string name="home_error_occured">An issue occurred</string>
+</resources>
